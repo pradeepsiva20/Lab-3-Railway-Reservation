@@ -24,7 +24,8 @@ their tickets.
 ### Class Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/9bd2d6ca-fdee-4c07-b985-e97bd413e2a1)
 ### Activity Diagram:
-![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/cfb71ed7-78ad-4427-9b04-4d275409a816)
+![act](https://github.com/pradeepsiva20/Lab-3-Railway-Reservation/assets/120539823/27c03d97-9cee-4b69-af91-861e8b474b95)
+
 
 ### Package Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/a2f8e4fd-56cd-43cd-a74b-8c09a5d16cb4)
