@@ -19,7 +19,7 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 ### Use Case Diagram:
-![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/9a68a462-7887-4f82-88d3-6cda5b0d282f)
+![usecase](https://github.com/pradeepsiva20/Lab-3-Railway-Reservation/assets/120539823/d68b5993-376e-4264-91bc-6ae62fb49488)
 
 ### Class Diagram:
 ![image](https://github.com/Selvakumar525/Lab-3-Railway-Reservation/assets/120643262/9bd2d6ca-fdee-4c07-b985-e97bd413e2a1)
